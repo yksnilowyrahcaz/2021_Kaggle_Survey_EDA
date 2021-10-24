@@ -25,7 +25,7 @@ The purpose of this repository is to provide an example of exploratory data anal
 3. What is the gender profile of all survey respondents? How does the Accounting/Finance industry rank among all other industries in the percentage of Data Scientists who identify as woman, non-binary or another gender descriptor?
 
 ## File Descriptions <a name="files"></a>
-Included is a notebook available here to showcase work related to the above questions. Markdown cells are used to walk the reader through the analysis performed. The raw survey response data used in this analysis is openly available on Kaggle at the following website: https://www.kaggle.com/c/kaggle-survey-2021
+Included is a notebook available here to showcase work related to the above questions. Markdown cells are used to walk the reader through the analysis performed. The raw survey response data used in this analysis is openly available on Kaggle available [here](https://www.kaggle.com/c/kaggle-survey-2021/data).
 
 ## Results <a name="results"></a>
 The main findings of this analysis can be found at the post available here
