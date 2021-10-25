@@ -28,7 +28,7 @@ The purpose of this repository is to provide an example of exploratory data anal
 Included is a notebook available here to showcase work related to the above questions. Markdown cells are used to walk the reader through the analysis performed. The raw survey response data used in this analysis is openly available on Kaggle available [here](https://www.kaggle.com/c/kaggle-survey-2021/data).
 
 ## Results <a name="results"></a>
-The main findings of this analysis can be found at the post available here
+The main findings of this analysis can be found at the post available [here](https://medium.com/@zacharywolinsky/this-new-data-will-make-you-rethink-your-role-in-accounting-finance-8d2f25262440).
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 Many thanks to Kaggle for administering the survey and all respondents for providing responses. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/c/kaggle-survey-2021). Please feel free to use the code and notebook as you like.
