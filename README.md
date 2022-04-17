@@ -11,14 +11,14 @@ Stuart Kinlough/Getty Images/Ikon Images
 
 ## Supporting Packages <a name="packages"></a>
 In addition to the standard python libraries, this notebook and analysis rely on the following packages:
-- geopandas https://geopandas.org/getting_started.html
-- GDAL http://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
-- Fiona http://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona
-- pyproj http://www.lfd.uci.edu/~gohlke/pythonlibs/#pyproj
-- rtree http://www.lfd.uci.edu/~gohlke/pythonlibs/#rtree
-- shapely http://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely
-- mapclassify https://pysal.org/mapclassify/
-- seaborn https://seaborn.pydata.org/
+- [geopandas](https://geopandas.org/getting_started.html)
+- [GDAL](http://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal)
+- [Fiona](http://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona)
+- [pyproj](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pyproj)
+- [rtree](http://www.lfd.uci.edu/~gohlke/pythonlibs/#rtree)
+- [shapely](http://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely)
+- [mapclassify](https://pysal.org/mapclassify/)
+- [seaborn](https://seaborn.pydata.org/)
 
 ## Project Motivation <a name="motivation"></a>
 The purpose of this repository is to provide an example of exploratory data analysis (EDA) in the context of the 2021 Kaggle Machine Learning and Data Science Survey. My goal is to better understand data scientists in the Accounting/Finance industry by exploring the following questions:
